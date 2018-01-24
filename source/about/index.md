@@ -19,5 +19,3 @@ date: 2018-01-19 15:40:15
 * 邮件：wangshuheng.cs@outlook.com
 * Twitter：https://twitter.com/@sf_Voice
 * GitHub：https://github.com/Alschain
-
-顺便放一下steam社区：http://steamcommunity.com/id/jxwywsh
