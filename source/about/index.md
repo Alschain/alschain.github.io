@@ -3,19 +3,19 @@ title: About
 date: 2018-01-19 15:40:15
 ---
 
-# 关于
+# About
 
-* 计算机视觉
-* 深度学习，机器学习
-* 目前在做视频处理相关方向
+* Computer Vision
+* Machine Learning > Deep Learning
+* Now in video processing
 * ACGN
 
-构思project为能够将一张图片转换为动画/漫画风格的图片，仍在起步阶段，若有兴趣可以一块儿合作 ^_^。
+Project (Thoughts): Conver an image into an anime style. Not start yet, if you are interested I hope to work together.
 
 
 
-# 联系
+# Contact
 
-* 邮件：wangshuheng.cs@outlook.com
+* Mail：wangshuheng.cs@outlook.com
 * Twitter：https://twitter.com/@sf_Voice
 * GitHub：https://github.com/Alschain
