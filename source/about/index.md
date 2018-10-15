@@ -6,16 +6,15 @@ date: 2018-01-19 15:40:15
 # About
 
 * Computer Vision
-* Machine Learning > Deep Learning
+* Machine Learning / Deep Learning
 * Now in video processing
 * ACGN
-
-Project (Thoughts): Conver an image into an anime style. Not start yet, if you are interested I hope to work together.
+* Python / C++ > Javascript
 
 
 
 # Contact
 
-* Mail：wangshuheng.cs@outlook.com
+* Mailto：wangshuheng.cs@outlook.com
 * Twitter：https://twitter.com/@sf_Voice
 * GitHub：https://github.com/Alschain
