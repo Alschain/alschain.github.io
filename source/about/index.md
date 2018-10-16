@@ -15,6 +15,6 @@ date: 2018-01-19 15:40:15
 
 # Contact
 
-* Mailto：wangshuheng.cs@outlook.com
+* Mailto：wsh.cs@outlook.com
 * Twitter：https://twitter.com/@sf_Voice
 * GitHub：https://github.com/Alschain
